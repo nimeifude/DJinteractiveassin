@@ -1339,9 +1339,10 @@ input[class*=grdnt-]:hover {
 
 .tab-horizon .tab-menu .tab-list li {
     margin-bottom: 0;
-    display: inline-block; margin-bottom: 5px;
+    display: inline-block;
+    margin-bottom: 5px;
     float: none;
-    padding: 15px 30px;
+    padding: 15px 7px;
     color: #fff;
     background: rgba(0, 0, 0, .1);
     cursor: pointer;
